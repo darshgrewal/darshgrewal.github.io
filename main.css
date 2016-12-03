@@ -6,11 +6,12 @@ body {
 }
 
 h1 {
-	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(121,149,117);
+	border:5px solid black;
+ 	font-size: 32px;
+  	font-family: Palatino, 'Palatino Linotype', serif;
+  	color: rgb(121,149,117);
 }
-
+ 
 h2 {
 	font-size: 56px;
 }
@@ -23,7 +24,7 @@ h2 {
   background-image: url("http://assets.bugatti.com/fileadmin/chiron_stage_01.jpg");
   background-size: cover;
   color: #ffffff;
-}
+} 
 
 p {
   font-size: 2rem;
